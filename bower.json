@@ -1,0 +1,28 @@
+{
+  "name": "mygulp",
+  "version": "0.0.0",
+  "authors": [
+    "rouzai"
+  ],
+  "description": "test",
+  "main": "bower.json",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "test"
+  ],
+  "license": "mi",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "fontawesome": "~4.3.0",
+    "metisMenu": "~2.0.0"
+  }
+}
