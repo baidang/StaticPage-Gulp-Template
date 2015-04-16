@@ -11,31 +11,30 @@
 
 ### 步骤1 建立NODE工程：
 
-  ** 方法1： **
+** 方法1：**
   
 1. COPY工程中的package.json文件
 2. 运行命令：
 	 
 	 npm install --save-dev
 	
-    
-  ** 方法2：  **
+** 方法2：**
   
 1. 初始化NODE工程：npm init，生成 package.json 相关记录文件； 
 2. 安装GULP相关控件：
     
        npm install --save-dev gulp gulp-load-plugins gulp-autoprefixer gulp-jshint gulp-concat gulp-uglify gulp-imagemin gulp-cache gulp-inject gulp-clean bower-main main-bower-files  browser-sync merge2 del
 
-### 步骤2 安装 BOWER 相关控件：  
-  ** 方法1： **
+### 步骤2 安装 BOWER 相关控件：
+
+** 方法1：**
   
 1. COPY工程中的bower.json文件，根据业务不同，建议用方法2做自行安装；
 2. 运行命令：
 	 
 	 bower install --save
 	
-    
-  ** 方法2：  **
+** 方法2：**
   
 1. 初始化BOWER工程：
 
